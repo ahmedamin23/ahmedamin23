@@ -26,3 +26,4 @@
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=flat&logo=Data%20Structures&logoColor=563D7C)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=Algorithms)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Coding](https://img.shields.io/badge/-Coding-05122A?style=flat&logo=codinge&logoColor=007ACC)&nbsp;
