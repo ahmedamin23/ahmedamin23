@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++ ,C ,Data Structre ,Algoritmhs or anything related.
+- 💬 Ask me about my experience with C++ ,C ,Data Structures ,Algoritmhs or anything related.
 
   
 ### Connect with Me :
